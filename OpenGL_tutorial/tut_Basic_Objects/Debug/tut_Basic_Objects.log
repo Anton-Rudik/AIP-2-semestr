@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\pipaz\OneDrive\Рабочий стол\OpenGL_tutorial\tut_Basic_Objects\main.cpp(25,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\pipaz\OneDrive\Рабочий стол\OpenGL_tutorial\tut_Basic_Objects\main.cpp(74,23): warning C4305: =: усечение из "double" в "float"
+  tut_Basic_Objects.vcxproj -> C:\Users\pipaz\OneDrive\Рабочий стол\OpenGL_tutorial\Debug\tut_Basic_Objects.exe
